@@ -1,12 +1,8 @@
-# test-UI
-hello world hjfashdjfhasdfjghasdfgjh
+sdadufhJUDGHJD'
 
-function ScreenRecording(){
+DFKSDGKdjg
 
-    return (
-        <>
-            <h1>sdfsdf</h1>
-        </>
-    )
-dwdQEDQED
-}
+Sdgjshfgkjhf
+
+fnsjfgn
+'
